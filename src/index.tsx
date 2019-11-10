@@ -1,7 +1,7 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
-import App from './Demo1/App';
+import App from './TodoDemo/App';
 
 ReactDOM.render(
     <App />,
